@@ -1,0 +1,13 @@
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\RecyclerDemo.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\System.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\System.Xml.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\Xamarin.Insights.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Users\kthakur\Documents\Projects\RecyclerDemo\RecyclerDemo\obj\Debug\assemblies\System.Net.Http.dll
